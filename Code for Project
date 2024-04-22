@@ -10,7 +10,7 @@
 <body>
 
 <div class="container mt-3">
-  <h2>Contextual Classes</h2>
+  <h2>Contextual Table</h2>
    <table class="table">
     <thead class="table-dark">
       <tr>
